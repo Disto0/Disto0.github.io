@@ -1,5 +1,3 @@
-DistoProduction
-
 Realtime, VirtualReality and Sounds!
 
 <p>
